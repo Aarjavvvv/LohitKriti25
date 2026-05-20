@@ -78,7 +78,8 @@ Built by the Lohit Hostel team for Kriti 2025 GameDev PS.
 | Name | Contribution |
 |---|---|
 | Aarjav Mukkirwar | Game design, assets, code |
-| Hemanga | Game design, assets, code |
+| Tanishq Yadav | Game design, assets, code |
+| Devesh More | Game design, assets, code |
 
 ---
 
